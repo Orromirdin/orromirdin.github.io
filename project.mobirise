@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "pripravujeme.html",
+    "currentPage": "index.html",
     "name": "Detail",
     "theme": {
       "name": "mobirise3",
@@ -217,6 +217,11 @@
             "Theme"
           ],
           "_name": "gallery1",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "text-align": "center"
+            }
+          },
           "_params": {
             "paddingTop": 0,
             "paddingBottom": 0,
@@ -312,12 +317,7 @@
           },
           "_anchor": "gallery1-2",
           "articleLayout": false,
-          "allItem": "All",
-          "_styles": {
-            ".mbr-gallery-item > div > span": {
-              "text-align": "center"
-            }
-          }
+          "allItem": "All"
         },
         {
           "_name": "footer1",
